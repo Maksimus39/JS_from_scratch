@@ -1,0 +1,24 @@
+.important-item {
+    color: red;
+    font-size: 20px;
+    border: red 1px solid
+}
+
+.important-size {
+    color: green;
+    font-size: 40px;
+    border: green 1px dashed;
+}
+
+.paragraph {
+    font-size: 20px;
+    color: darkcyan;
+}
+
+img {
+    width: 700px
+}
+
+input {
+    padding: 20px;
+}
